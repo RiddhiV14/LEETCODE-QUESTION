@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
