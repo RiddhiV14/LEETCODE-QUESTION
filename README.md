@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
