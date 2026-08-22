@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2469-convert-the-temperature) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
