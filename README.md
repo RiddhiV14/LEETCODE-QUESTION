@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2413-smallest-even-multiple) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 ## Sliding Window
 |  |
 | ------- |
