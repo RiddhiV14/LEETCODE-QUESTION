@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0771-jewels-and-stones) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3904-smallest-stable-index-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
