@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
