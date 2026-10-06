@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
@@ -172,13 +173,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Geometry
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1401-circle-and-rectangle-overlapping) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
