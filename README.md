@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0856-score-of-parentheses) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
