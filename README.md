@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0367-valid-perfect-square) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0485-max-consecutive-ones) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
