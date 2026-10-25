@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0189-rotate-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
