@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0191-number-of-1-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
