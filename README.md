@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
