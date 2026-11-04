@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
