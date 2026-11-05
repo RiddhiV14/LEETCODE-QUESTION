@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0724-find-pivot-index) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1732-find-the-highest-altitude) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0367-valid-perfect-square) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
