@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0724-find-pivot-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1021-remove-outermost-parentheses) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
