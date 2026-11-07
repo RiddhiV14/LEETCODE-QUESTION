@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0509-fibonacci-number) |
 ## Memoization
