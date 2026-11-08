@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0724-find-pivot-index) |
+| [1267-count-servers-that-communicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,4 +272,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0496-next-greater-element-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
