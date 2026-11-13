@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0876-middle-of-the-linked-list) |
 ## Backtracking
 |  |
 | ------- |
