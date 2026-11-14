@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3904-smallest-stable-index-ii) |
 ## Floyd's Cycle Finding Algorithm
