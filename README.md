@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2469-convert-the-temperature) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Union-Find
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiddhiV14/LEETCODE-QUESTION/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
